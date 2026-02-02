@@ -1,0 +1,23 @@
+[font]
+size = 14.0
+
+[font.bold]
+family = "JetBrains Mono"
+style = "Bold"
+
+[font.italic]
+family = "JetBrains Mono"
+style = "Italic"
+
+[font.normal]
+family = "JetBrains Mono"
+style = "Regular"
+
+[keyboard]
+bindings = [
+  # Toggle fullscreen with F11
+  { key = "F11", action = "ToggleFullscreen" },
+
+  # New Alacritty window with Ctrl + Shift + N
+  { key = "N", mods = "Control|Shift", action = "SpawnNewInstance" }
+]
