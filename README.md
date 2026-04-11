@@ -1,1 +1,1 @@
-anyone can use anyone's dot file is one use case of github.
+manifest files in case you'll use for it later.
