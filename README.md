@@ -1,1 +1,1 @@
-manifest files in case you'll use for it later.
+manifest files in case I sudo-ed rm -rf /
